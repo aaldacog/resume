@@ -1,46 +1,52 @@
 title: Résumé
-name: YOUR NAME
-jobtitle: Your Job Title
+name: ABRAHAM ALDACO
+jobtitle: Professor
 contact:
   - icon: fa-envelope
-    text: youremail@example.com
+    text: abraham.aldaco@gmail.com
   - icon: fa-phone-square
-    text: your-phone-num
+    text: 662 2591000
   - icon: fa-globe
-    text: your-website.com
-    link: https://crispgm.github.io/resume/resume.html
+    text: LinkedIn
+    link: https://mx.linkedin.com/in/abrahamaldaco
   - icon: fa-github
-    text: your-github
+    text: Github
     link: https://github.com/crispgm/resume
 education:
-  - university: Your First University
-    duration: Jul 2011 - Dec 2012
-    location: Consectetur adipiscing elit
-    major: Lorem ipsum dolor sit amet
-  - university: Your Second University
-    duration: Aug 2007 - Jun 2011
-    location: Ut enim ad minim veniam
-    major: Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+  - university: Arizona State University
+    duration: Aug 2008 - Apr 2015
+    location: Tempe, Arizona, USA
+    major: Ph.D. in Computer Science
+  - university: TEC de Monterrey
+    duration: Jan 1997 - Dec 2000
+    location: Hermosillo, Sonora, Mexico
+    major: M.S. in Computer Science
+  - university: TEC de Monterrey
+    duration: Jan 1985 - Dec 1988
+    location: Monterrey, Nuevo Leon, Mexico
+    major: B.S. in Electronics and Computer Systems
 skills:
-  - title: Skill Group 1
-    items: Lorem, Ipsum, Dolor, Sit, Amet
-  - title: Skill Group 2
-    items: Consectetur, Adipiscing, Elit
-  - title: Skill Group 3
-    items: Sed do, Eiusmod, Tempor, Incididunt
+  - title: Data Science
+    items: Machine Learning, Statistics, Artificial Intelligence, Design of Experiments
+  - title: Programming
+    items: Python, R, C, C++, Java, Matlab, TCL, HTML, MySQL, Unix shell
+  - title: Tools
+    items: Minitab, JMP, SPSS, Orange data mining, Rapidminer, Visual Studio Code, MySql workbench
+  - title: Computer science
+    items: Computer networks, Discrete mathematics, Operating systems, Linux, Logic, Data structures, Data bases 
 experience:
-  - title: Job Title 1
-    duration: Apr 2016 - Now
-    company: Your 1st, Inc.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: Job Title 2
-    duration: Apr 2013 - Mar 2016
-    company: Your 2nd, Inc.
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  - title: Job Title 3
-    duration: Dec 2011 - Mar 2012
-    company: Your 3rd Co, Ltd.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - title: Full time Professor
+    duration: July 2017 - Now
+    company: TEC de Monterrey
+    description: Curricula development, academic advising and development of relationships between university and industry.
+  - title: Storage Performance Test Specialist
+    duration: Oct 2015 – Jun 2016
+    company: IBM, Guadalajara, Jalisco, Mexico
+    description: Benchmarked the performance from running I/O operation tests in datacenter server platforms of high storage capacity. IBM TS7720T and virtual storage devices IBM TS3500 Tape Library. Developed analytics from the results and wrote a white paper of the release. Found and reported defects in software and hardware
+  - title: Project Engineering Leader - Aviation Systems
+    duration: Apr 2015 – Oct 2015
+    company: GENERAL ELECTRIC, Queretaro, Mexico.
+    description: Improved quality of software (C) by finding and reporting defects during testing and code reviewing. Developed software and improved inherited software embedded in an ASIC device for avionics testing performance of I/O operations on flash memory. Analytics on patterns were shown. Agile, Scrum methodologies and version control system for software development.
 projects:
   - name: Project Name 1
     description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -51,5 +57,5 @@ projects:
 languages:
   - name: English
     proficiency: Work proficiency
-  - name: Mandarin Chinese
+  - name: Spanish
     proficiency: Native
